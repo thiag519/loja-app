@@ -5,70 +5,70 @@ export const products: Product[] = [
     id: 1,
     category: 'sushi',
     name: 'Sushi 1',
-    image: '/imagens/sushi/shshi-1.jpg',
+    image: '/imagens/sushi/sushi-1.jpg',
     price: 49
   },
   {
     id: 2,
     category: 'sushi',
     name: 'Sushi 2',
-    image: '/imagens/sushi/shshi-2.jpg',
+    image: '/imagens/sushi/sushi-2.jpg',
     price: 49
   },
   {
     id: 3,
     category: 'sushi',
     name: 'Sushi 3',
-    image: '/imagens/sushi/shshi-3.jpg',
+    image: '/imagens/sushi/sushi-3.jpg',
     price: 49
   },
   {
     id: 4,
     category: 'sushi',
     name: 'Sushi 4',
-    image: '/imagens/sushi/shshi-4.jpg',
+    image: '/imagens/sushi/sushi-4.jpg',
     price: 47
   },
   {
     id: 5,
     category: 'sushi',
     name: 'Sushi 5',
-    image: '/imagens/sushi/shshi-5.jpg',
+    image: '/imagens/sushi/sushi-5.jpg',
     price: 45
   },
   {
     id: 6,
     category: 'sushi',
     name: 'Sushi 6',
-    image: '/imagens/sushi/shshi-6.jpg',
+    image: '/imagens/sushi/sushi-6.jpg',
     price: 49
   },
   {
     id: 7,
     category: 'sushi',
     name: 'Sushi 7',
-    image: '/imagens/sushi/shshi-7.jpg',
+    image: '/imagens/sushi/sushi-7.jpg',
     price: 47
   },
   {
     id: 8,
     category: 'sushi',
     name: 'Sushi 8',
-    image: '/imagens/sushi/shshi-8.jpg',
+    image: '/imagens/sushi/sushi-8.jpg',
     price: 50
   },
   {
     id: 9,
     category: 'sushi',
     name: 'Sushi 9',
-    image: '/imagens/sushi/shshi-9.jpg',
+    image: '/imagens/sushi/sushi-9.jpg',
     price: 49
   },
   {
     id: 10,
     category: 'sushi',
     name: 'Sushi 10',
-    image: '/imagens/sushi/shshi-10.jpg',
+    image: '/imagens/sushi/sushi-10.jpg',
     price: 49
   },
   {
